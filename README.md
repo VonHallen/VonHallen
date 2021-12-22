@@ -1,4 +1,4 @@
-<h1 align="center">Greetings adventurer 👋,I am I'm Dom</h1>
+<h1 align="center">Greetings adventurer 👋</h1>
 <h3 align="center">I crunch data and code</h3>
 
 - 🔭 I’m currently working on **ASL recognition with CNN**
