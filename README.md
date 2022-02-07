@@ -1,5 +1,7 @@
-<h1 align="center">Greetings adventurer 👋</h1>
+<h1 align="center">Greetings, I am Dom 👋</h1>
 <h3 align="center">I crunch data and code</h3>
+
+I have finished coding Bootcamp at Le Wagon focused on Data science with Python. I am more than happy to participate on any project! :)
 
 - 🔭 I’m currently working on **ASL recognition with CNN**
 
