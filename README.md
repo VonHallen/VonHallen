@@ -5,7 +5,7 @@ I have finished coding Bootcamp at Le Wagon focused on Data science with Python.
 
 - 🔭 I’m currently working on **ASL recognition with CNN**
 
-- 🌱 I’m currently learning **Azure environment**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
